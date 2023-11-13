@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  AuctionGame
+
+  Created by developer on 04.11.2023.
+*/
+
+"gameRound" = "Round";
+"gameScore" = "Game Score";
+"gameNewRecord" = "New Record!";
+"gamePlayAgain" = "Play Again";
+
+"aboutFeedback" = "Send Feedback";
+"aboutRateApp" = "Rate App";
+"aboutShareMessage" = "Try the new Auction Game. Install now to get all auction lots' pack:";
+"aboutFeedbackSent" = "Sent. We'll proccess the request as soon as possible!";
+"aboutFeedbackNotSent" = "Message hasn't been sent";
+
+"generalAbout" = "About";
+"generalShare" = "Share";
+"generalBestScore" = "Best Score";
+"generalClear" = "Clear";
+"generalClose" = "Close";
+"generalStart" = "Start";

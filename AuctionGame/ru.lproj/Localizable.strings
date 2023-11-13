@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  AuctionGame
+
+  Created by developer on 04.11.2023.
+*/
+
+"gameRound" = "Лот";
+"gameScore" = "Счет игры";
+"gameNewRecord" = "Новый рекорд!";
+"gamePlayAgain" = "Сыграть снова";
+
+"aboutFeedback" = "Отправить отзыв";
+"aboutRateApp" = "Оценить приложение";
+"aboutShareMessage" = "Попробуй новую игру Auction Game. Установи сейчас и получи полный список лотов с аукционов:";
+"aboutFeedbackSent" = "Отправлено. Мы обработаем запрос как можно скорее!";
+"aboutFeedbackNotSent" = "Сообщение не было отправлено";
+
+"generalAbout" = "О приложении";
+"generalShare" = "Поделиться";
+"generalBestScore" = "Рекорд";
+"generalClear" = "Сбросить";
+"generalClose" = "Закрыть";
+"generalStart" = "Начать";
